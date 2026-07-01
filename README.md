@@ -1,5 +1,6 @@
 Sales Analysis Dashboard | Data Analytics Project
 
+
 I built an end-to-end Sales Analysis Dashboard to analyze business performance across sales, customers, categories, payment methods, delivery modes, managers, distributors, and countries.
 
 Key KPIs Tracked:
